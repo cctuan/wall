@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#lovewall {
+  display: block;
+  height: 100%;
+}
+
+.brick {
+  background-size: 100%;
+  background-repeat: no-repeat;;
+  background-position: center;
+}
+
+.template {
+  display: none;
+}
